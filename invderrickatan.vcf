@@ -3,10 +3,10 @@ VERSION:3.0
 N:TAN;INV. DERRICK A.;;;
 FN:INV. DERRICK A. TAN
 ORG:MAGNA PRIME CHEMICAL TECHNOLOGIES INC.
-ADR;TYPE=WORK: 057 Camangyanan Road, Camangyanan, Santa Maria, Bulacan
+ADR;TYPE=address: 057 Camangyanan Road, Camangyanan, Santa Maria, Bulacan
 TITLE:CEO / PRESIDENT
 TEL;TYPE=CELL:+639171880125
-TEL;TYPE=WORK,VOICE:(044) 793 0358
+TEL;TYPE=office,VOICE:(044) 793 0358
 EMAIL;TYPE=email:datan@magnaprime.com.ph
 URL:magnaprime.com.ph
  
