@@ -8,7 +8,7 @@ TITLE:CEO / PRESIDENT
 TEL;TYPE=CELL:+639171880125
 TEL;TYPE=office,VOICE:(044) 793 0358
 EMAIL;TYPE=email:datan@magnaprime.com.ph
-URL:magnaprime.com.ph
+URL;TYPE=website:magnaprime.com.ph
  
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
